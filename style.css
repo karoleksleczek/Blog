@@ -1,0 +1,22 @@
+a
+{
+ padding-top:7px;
+ padding-bottom:7px;
+ padding-left:4px;
+ padding-right:4px;
+ box-sizing: content-box;
+ background-color: red;
+ text-decoration: none;
+ color:white;
+}
+
+a:hover
+{
+ background-color: yellow;
+ color: goldenrod;
+}
+
+.edit
+{
+  background-color: black;
+}
